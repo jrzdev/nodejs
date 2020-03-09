@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Treinamento em NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrzdev/nodejs.git"
+  },
+  "author": "Del",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrzdev/nodejs/issues"
+  },
+  "homepage": "https://github.com/jrzdev/nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
